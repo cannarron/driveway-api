@@ -4,7 +4,7 @@
 
 # Driveway
 
-A simple Node JS API that allows users (admin) to manage parking spaces.
+A simple Node JS API to manage car park spaces.
 
 ## Core Technologies
 
